@@ -1,0 +1,15 @@
+C:\Projects\Code\Csharp\Task-dop-2\bin\Debug\net6.0\Task-dop-2.exe
+C:\Projects\Code\Csharp\Task-dop-2\bin\Debug\net6.0\Task-dop-2.deps.json
+C:\Projects\Code\Csharp\Task-dop-2\bin\Debug\net6.0\Task-dop-2.runtimeconfig.json
+C:\Projects\Code\Csharp\Task-dop-2\bin\Debug\net6.0\Task-dop-2.dll
+C:\Projects\Code\Csharp\Task-dop-2\bin\Debug\net6.0\Task-dop-2.pdb
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.csproj.AssemblyReference.cache
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.AssemblyInfoInputs.cache
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.AssemblyInfo.cs
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.dll
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\refint\Task-dop-2.dll
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.pdb
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\Task-dop-2.genruntimeconfig.cache
+C:\Projects\Code\Csharp\Task-dop-2\obj\Debug\net6.0\ref\Task-dop-2.dll
